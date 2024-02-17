@@ -1,0 +1,4 @@
+pandas==2.1.4 
+seaborn==0.12.2
+matplotlib==3.8.0numpy
+numpy==1.26.3
